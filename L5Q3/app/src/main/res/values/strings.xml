@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">L5Q3</string>
+    <string name="src">Source</string>
+    <string name="dst">Destination</string>
+    <string name="date">DatePicker</string>
+    <string name="time">TimePicker</string>
+    <string name="title">BookR</string>
+    <string-array name="source_items">
+        <item>Bangalore</item>
+        <item>Delhi</item>
+        <item>Chennai</item>
+        <item>Dehradun</item>
+        <item>Mumbai</item>
+    </string-array>
+    <string-array name="dest_items">
+        <item>Dehradun</item>
+        <item>Bangalore</item>
+        <item>Delhi</item>
+        <item>Chennai</item>
+        <item>Mumbai</item>
+    </string-array>
+
+</resources>
