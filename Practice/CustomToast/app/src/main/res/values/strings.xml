@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CustomToast</string>
+    <string-array name="list">
+        <item>Bread</item>
+        <item>Milk</item>
+        <item>Toast</item>
+        <item>Butter</item>
+    </string-array>
+</resources>
