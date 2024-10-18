@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">L3Q1</string>
+    <string name="grid">GridView</string>
+    <string name="list">ListView</string>
+    <string name="table">TableLayout</string>
+    <string-array name="list_values">
+        <item>Fruits</item>
+        <item>Vegetables</item>
+        <item>Herbs</item>
+        <item>Dairy</item>
+        <item>Soft Drinks</item>
+    </string-array>
+</resources>
