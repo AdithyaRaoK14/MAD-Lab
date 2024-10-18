@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">L4Q2</string>
+    <string name="title">Toggler</string>
+    <string name="button">Change</string>
+    <string name="toggle">Toggle</string>
+    <string name="image">Image</string>
+</resources>
