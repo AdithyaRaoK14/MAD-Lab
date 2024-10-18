@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">L2Q4</string>
+    <string name="title">WebViewer</string>
+    <string name="text_field">Enter URL</string>
+    <string name="hint">URL</string>
+    <string name="search">Search</string>
+    <string name="sample">https://google.com</string>
+</resources>
