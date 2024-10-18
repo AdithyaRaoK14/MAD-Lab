@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">L5Q1</string>
+    <string name="title">Vehicle Registration</string>
+    <string name="confirm">Confirmation</string>
+    <string name="type">Vehicle Type</string>
+    <string name="rc">RC Number</string>
+    <string name="vno">Vehicle Number</string>
+    <string name="type1">Vehicle Type : </string>
+    <string name="rc1">RC Number : </string>
+    <string name="vno1">Vehicle Number : </string>
+    <string name="submit">Submit</string>
+    <string name="back">Back</string>
+    <string name="h1">e.g. UK07MH1172</string>
+    <string name="h2">e.g. MH-19-AG-5465</string>
+    <string-array name="vehicle_list">
+        <item>Car</item>
+        <item>Scooter</item>
+        <item>Bus</item>
+        <item>Truck</item>
+        <item>Gypsy</item>
+        <item>XUV</item>
+        <item>SUV</item>
+        <item>Motorbike</item>
+    </string-array>
+</resources>

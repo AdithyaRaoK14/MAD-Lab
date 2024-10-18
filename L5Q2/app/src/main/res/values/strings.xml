@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">L5Q2</string>
+    <string name="title">BookMyTicket</string>
+    <string name="to">Destination</string>
+    <string name="from">From</string>
+    <string name="submit">Submit</string>
+    <string name="toggle">Round-Trip</string>
+    <string name="clear">Clear</string>
+    <string-array name="destinations">
+        <item>Manali</item>
+        <item>Dehradun</item>
+        <item>Delhi</item>
+        <item>Kolkata</item>
+        <item>Chennai</item>
+        <item>Mysore</item>
+        <item>Bangalore</item>
+        <item>Manipal</item>
+        <item>Goa</item>
+        <item>Mumbai</item>
+    </string-array>
+    <string-array name="source">
+        <item>Manipal</item>
+        <item>Manali</item>
+        <item>Dehradun</item>
+        <item>Delhi</item>
+        <item>Kolkata</item>
+        <item>Chennai</item>
+        <item>Mysore</item>
+        <item>Bangalore</item>
+        <item>Goa</item>
+        <item>Mumbai</item>
+    </string-array>
+</resources>
